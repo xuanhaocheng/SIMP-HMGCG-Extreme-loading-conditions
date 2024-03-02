@@ -13,7 +13,7 @@ This hybrid topology optimization method, aimed at maximizing the stiffness of 3
 Desktop computer :  GPU Nvidia 4090-24G  Matlab Version: R2023a OS: Windows 10  CUDA Version:DriverVersion: 12.0  MEX Compile Environment:MEX is configured to use 'Microsoft Visual C++ 2019 (C)' for C language compilation.
 
 
-Latop: GPU Nvidia 3060-6G  Matlab Version: R2022a OS: Windows 10   CUDA Version:DriverVersion: 12.1   MEX Compile Environment:MEX is configured to use 'Microsoft Visual C++ 2019 (C)' for C language compilation.
+Laptop: GPU Nvidia 3060-6G  Matlab Version: R2022a OS: Windows 10   CUDA Version:DriverVersion: 12.1   MEX Compile Environment:MEX is configured to use 'Microsoft Visual C++ 2019 (C)' for C language compilation.
 
 
 After the paper is accepted, I will be recording a video tutorial on how to download MATLAB software and CUDA onto a regular computer, and subsequently compiling a .cu file using MexCUDA to run large-scale topology optimization programs successfully.
