@@ -13,7 +13,7 @@ Latop: GPU Nvidia 3060-6G  Matlab Version: R2022a OS: Windows 10   CUDA Version:
 After the paper is accepted, I will be recording a video tutorial on how to download MATLAB software and CUDA onto a regular computer, and subsequently compiling a .cu file using MexCUDA to run large-scale topology optimization programs successfully.
 
 # Programming Language
-The majority of the code components are completed within the MATLAB software, the parallel computing tasks are performed on the GPU, and the results are returned to MATLAB software using the mexFunction function  for further CPU-based processing.
+The majority of the code components are completed within the MATLAB software, the parallel computing tasks are performed on the GPU, and the results are returned to MATLAB software using the mexFunction function  for further CPU-based processing. \n
 
 # suggestions of citations
 These codes represent a further development following the publicly available codes by Sigmund, Arya, and others. If you find these codes beneficial to your research, I recommend citing their respective papers when referencing them：
