@@ -3,7 +3,7 @@ A hybrid topology optimization method based on SIMP and MGCG: A robust topology 
 
 
 # Single GPU
-This is a method capable of achieving nearly 80 million elements and 240 million large-scale topology optimization iterations on a single personal computer equipped with a CPU with 32GB of memory and a GPU with 24GB of memory. 
+This is a method capable of achieving nearly 67 million elements and 201 million large-scale topology optimization iterations on a single personal computer equipped with a CPU with 32GB of memory and a GPU with 24GB of memory. 
 
 It employs a hybrid CPU and GPU computing approach, with the parallel computing component implemented on the GPU, and commonly used function functionalities realized using MATLAB software. Scholars and designers can integrate this method with their own proposed new algorithms using MATLAB software to generate more intriguing 3D large-scale topology optimization methods. Consequently, many people will be able to utilize this low-cost large-scale topology optimization program to create interesting projects.
 
