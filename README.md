@@ -1,5 +1,6 @@
 # SIMP-HMGCG
-A hybrid topology optimization method based on SIMP and MGCG
+A hybrid topology optimization method based on SIMP and MGCG: A robust topology optimization method for large-scale structures considering multiple loading conditions
+
 
 # Single GPU
 This is a method capable of achieving nearly 80 million elements and 240 million large-scale topology optimization iterations on a single personal computer equipped with a CPU with 32GB of memory and a GPU with 24GB of memory. 
