@@ -1,5 +1,6 @@
 # SIMP-HMGCG
 A hybrid topology optimization method based on SIMP and MGCG: A robust topology optimization method for large-scale structures considering multiple loading conditions
+The code will be made public after the paper is accepted.
 
 
 # Single GPU
@@ -25,6 +26,9 @@ The majority of the code components are completed within the MATLAB software, th
 # suggestions of citations
 These codes represent a further development following the publicly available codes by Sigmund et al, Arya et al, and others. If you find these codes beneficial to your research, I recommend citing their respective papers when referencing them：
 
+Amir O, Aage N, Lazarov BS. On multigrid-CG for efficient topology optimization. Struct Multidisc Optim 2014;49:815–29.
+
 Ferrari, F. & Sigmund, O. A new generation 99 line Matlab code for compliance Topology Optimization and its extension to 3D. (2020).
 
 Padhi, A. P., Chakraborty, S., Chakrabarti, A. & Chowdhury, R. Efficient hybrid topology optimization using GPU and homogenization-based multigrid approach. Engineering with Computers 39, 3593–3615 (2023).
+
