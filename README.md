@@ -1,6 +1,6 @@
 # The code will be made public after the paper is accepted.
 # SIMP-HMGCG
-A hybrid topology optimization method based on SIMP and MGCG: A novel GPU-accelerated topology optimization method for large-scale structures under extreme loading conditions 
+A hybrid topology optimization method based on SIMP and MGCG: A novel GPU-accelerated topology optimization method for large-scale steel frame structures under extreme loading conditions 
 
 
 # Single GPU
